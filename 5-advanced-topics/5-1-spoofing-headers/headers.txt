@@ -1,0 +1,17 @@
+Resource: https://scrapeops.io/web-scraping-playbook/web-scraping-guide-header-user-agents/#why-you-need-to-use-real-web-browser-headers
+
+Host
+Connection
+Cache-Control
+sec-ch-ua
+sec-ch-ua-mobile
+sec-ch-ua-platform
+Upgrade-Insecure-Requests
+User-Agent
+Accept
+Sec-Fetch-Site
+Sec-Fetch-Mode
+Sec-Fetch-User
+Sec-Fetch-Dest
+Accept-Encoding
+Accept-Language
